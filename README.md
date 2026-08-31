@@ -60,8 +60,8 @@ I'm particularly interested in opportunities where I can learn from experienced 
 
 ### 📫 Connect With Me
 
-* LinkedIn: [Add your LinkedIn URL]
-* Email: [Add your professional email]
+* LinkedIn: [https://www.linkedin.com/in/uday-k-877221391/]
+* Email: [udaykalse123@gmail.com]
 * GitHub: [Your GitHub profile]
 
 ---
