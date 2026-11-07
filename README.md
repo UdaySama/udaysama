@@ -13,6 +13,12 @@
 
 ---
 
+<p align="center">
+  <img src="koi/koi.gif" width="256" alt="My Git Koi" />
+</p>
+
+---
+
 ## ⚡ Technical Architecture & Tech Stack
 
 > Optimized for high-throughput asynchronous backends, robust Linux system engineering, and modular React frontends.
@@ -55,31 +61,33 @@
 
 ## 🎯 Engineering Focus
 
-* **High-Performance Backends:** Designing non-blocking, asynchronous RESTful APIs using Python, FastAPI, and optimized SQL database queries.
-* **Linux-Centric Workflows:** Leveraging Linux CLI environments, shell scripting, and containerization (Docker) to ensure seamless application deployment and process management.
-* **Modular Frontend Engineering:** Building type-safe, component-driven user interfaces in React with a sharp emphasis on state management and API integration.
-* **Rigorous CS Fundamentals:** Applying rigorous Data Structures, Algorithms, design patterns, and OS-level concepts to write clean, memory-efficient code.
+- **High-Performance Backends:** Designing non-blocking, asynchronous RESTful APIs using Python, FastAPI, and optimized SQL database queries.
+- **Linux-Centric Workflows:** Leveraging Linux CLI environments, shell scripting, and containerization (Docker) to ensure seamless application deployment and process management.
+- **Modular Frontend Engineering:** Building type-safe, component-driven user interfaces in React with a sharp emphasis on state management and API integration.
+- **Rigorous CS Fundamentals:** Applying rigorous Data Structures, Algorithms, design patterns, and OS-level concepts to write clean, memory-efficient code.
 
 ---
 
 ## 🚀 Featured Project
 
-### **[Job Application Tracker]** *(In Development)*
+### **[Job Application Tracker]** _(In Development)_
+
 An enterprise-grade, full-stack pipeline manager designed to track recruitment cycles, lifecycle states, and timeline metrics.
-* **Architecture:** Decoupled client-server model engineered for speed and reliability.
-* **Backend:** Python, FastAPI, SQLAlchemy, PostgreSQL (running in isolated container environments).
-* **Frontend:** React, TypeScript, Tailwind CSS.
-* **Infrastructure:** Dockerized multi-service deployment orchestrated via Linux shell scripts.
-* *Repository link will be updated here upon initial release.*
+
+- **Architecture:** Decoupled client-server model engineered for speed and reliability.
+- **Backend:** Python, FastAPI, SQLAlchemy, PostgreSQL (running in isolated container environments).
+- **Frontend:** React, TypeScript, Tailwind CSS.
+- **Infrastructure:** Dockerized multi-service deployment orchestrated via Linux shell scripts.
+- _Repository link will be updated here upon initial release._
 
 ---
 
 ## 📚 Core Computer Science Mastery
 
-* **Data Structures & Algorithms:** Advanced problem-solving, complexity analysis, and algorithmic optimization.
-* **Operating Systems & Linux:** Process management, IPC, system calls, and advanced shell automation.
-* **Database Management:** Relational schema design, indexing strategies, and query performance tuning.
-* **Networking & Protocols:** TCP/IP stack, HTTP/HTTPS lifecycle, WebSockets, and RESTful paradigms.
+- **Data Structures & Algorithms:** Advanced problem-solving, complexity analysis, and algorithmic optimization.
+- **Operating Systems & Linux:** Process management, IPC, system calls, and advanced shell automation.
+- **Database Management:** Relational schema design, indexing strategies, and query performance tuning.
+- **Networking & Protocols:** TCP/IP stack, HTTP/HTTPS lifecycle, WebSockets, and RESTful paradigms.
 
 ---
 
@@ -87,7 +95,7 @@ An enterprise-grade, full-stack pipeline manager designed to track recruitment c
 
 I am actively seeking full-time roles where I can contribute to complex technical challenges, collaborate with cross-functional engineering teams, and deliver robust software.
 
-* **Target Roles:** Software Engineer | Backend Developer | Python Developer | Full-Stack Software Engineer | Systems / Linux Developer
+- **Target Roles:** Software Engineer | Backend Developer | Python Developer | Full-Stack Software Engineer | Systems / Linux Developer
 
 ---
 
